@@ -3,7 +3,7 @@
 Proyecto del semestre de Buenas Prácticas de Desarrollo de Software.
 Aplicación en React (Vite) que muestra una tabla de estudiantes con su nota y su estado (Aprobado/Reprobado), y permite agregar estudiantes nuevos.
 
-**Integrantes:** (nombres del equipo)
+**Integrantes:** (Joshua Werminsky, Santiago Zambrano, Yhaisell)
 
 ## Cómo correrlo
 
